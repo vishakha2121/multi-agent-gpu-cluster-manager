@@ -60527,14 +60527,3 @@ pytestdebug.log
 profile_default/
 ipython_config.py
 
-# pyenv
-.python-version
-
-# Celery
-celerybeat-schedule
-celerybeat.pid
-
-# SageMath
-*.sage.py
-
-# Environments
